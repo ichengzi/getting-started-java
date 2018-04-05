@@ -29,10 +29,13 @@
   <p>This is <%= HelloAppEngine.getInfo() %>.</p>
   <table>
     <tr>
-      <td colspan="2" style="font-weight:bold;">Available Servlets:</td>
+      <td colspan="2" style="font-weight:bold;">Books:</td>
     </tr>
     <tr>
-      <td><a href='/hello'>Hello App Engine</a></td>
+      <td><a href='/shengxu'>圣墟</a></td>
+    </tr>
+    <tr>
+      <td><a href='/fanren'>凡人修仙之仙界篇</a></td>
     </tr>
   </table>
 
